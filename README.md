@@ -9,6 +9,3 @@ Additionally, I've added a step in scripts/install_master.sh to output the token
 - Start the cluster using >> `vagrant up`
 - Refresh the cluster using >> `vagrant halt`
 - Destroy the clusters using >> `vagrant destroy -f`
-
-
-You can start the cluster using `vagrant up` and refresh the cluster using vagrant halt && vagrant destroy -f && vagrant up
